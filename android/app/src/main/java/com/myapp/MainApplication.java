@@ -3,7 +3,7 @@ package com.myapp;
 import android.app.Application;
 import android.content.res.Configuration;
 import androidx.annotation.NonNull;
-
+import io.invertase.firebase.messaging.ReactNativeFirebaseMessagingPackage;
 import com.facebook.react.PackageList;
 import com.facebook.react.ReactApplication;
 import com.facebook.react.ReactNativeHost;
